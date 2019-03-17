@@ -1,0 +1,20 @@
+//comman css 
+.tabs-heading{
+    color: $tabs-heading-color;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0px;
+  }
+.main-button{
+    button{
+        border: 0px;
+        color: $tabs-heading-color;
+        padding: 8px 0px;
+        width: 100%;
+        background: transparent;
+        border: 1px solid $tabs-heading-color;
+        margin-top: 2rem;
+        font-size: 13px;
+        font-weight: bold;
+    }
+}
